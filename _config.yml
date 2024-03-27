@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "DongHyeon Kim's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "indextrown"
+name                     : "indextrown2"
 description              : "데이터로 보다 안전한 세상을 만들고 싶습니다."
 url                      : https://indextrown2.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Donghyeon"
   avatar           : "/assets/logos/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Safer society with data"
+  bio              : "알고리즘 공부"
   location         : "South Korea"
   email            : 
   links:
