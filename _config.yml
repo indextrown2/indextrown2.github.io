@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DDangchani's DataLog"
+title                    : "DongHyeon Kim's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dangchan"
+name                     : "indextrown"
 description              : "데이터로 보다 안전한 세상을 만들고 싶습니다."
 url                      : https://indextrown2.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
