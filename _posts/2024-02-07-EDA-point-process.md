@@ -1,7 +1,7 @@
 ---
 title: "1. OpenGL Modeling Primitive Drawing"
 tags: 
-- Spatial Statistics
+- C++
 - PySAL
 - Python
 use_math: true
