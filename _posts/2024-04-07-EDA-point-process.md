@@ -1,5 +1,5 @@
 ---
-title: "Python으로 Point Process 데이터 분석하기"
+title: "1. OpenGL Modeling Primitive Drawing"
 tags: 
 - Spatial Statistics
 - PySAL
