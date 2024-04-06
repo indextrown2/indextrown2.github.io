@@ -17,10 +17,14 @@ header:
 - Solid modeling  
 - NURBS surface modeling  
 
-indextrown2.github.io/_posts/2024-02-13-pymc.md
+indextrown2.github.io/_posts/2024-02-13-pymc.md  
 
-
-
+- 점을 그리는 코드  
+```c++  
+glBegin(GL_POINTS);  
+glVertex2f(0, 0);  
+glEnd();  
+```
 
 ## MCMC
 
