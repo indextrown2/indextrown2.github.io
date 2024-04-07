@@ -1,7 +1,8 @@
 ---
 title: "1. OpenGL Modeling Primitive Drawing"
 tags: 
-- Python
+- C++  
+- Computer Graphics  
 use_math: true
 header: 
   teaser: /assets/img/Pasted image 20240213151745.png
