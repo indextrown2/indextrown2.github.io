@@ -4,7 +4,7 @@ tags:
 - C  
 - C++  
 - Computer Graphics  
-- C/C++  
+- C%2FC%2B%2B    
 use_math: true
 header: 
   teaser: /assets/img/Pasted image 20240213151745.png
