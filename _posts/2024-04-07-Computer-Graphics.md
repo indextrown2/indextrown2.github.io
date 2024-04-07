@@ -1,9 +1,10 @@
 ---
 title: "1. OpenGL Modeling Primitive Drawing"
 tags: 
+- C  
 - C++  
 - Computer Graphics  
-- C/C++    
+- C/C++  
 use_math: true
 header: 
   teaser: /assets/img/Pasted image 20240213151745.png
